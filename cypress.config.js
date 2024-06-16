@@ -27,7 +27,7 @@ module.exports = defineConfig({
     //specPattern: "cypress/integration/*.*.js",
     // baseUrl: "https://clockify.me",
     baseUrl: "https://app.clockify.me",
-    projectId: "CYPRESS_ID_KEY",
+    projectId: "xwz32p",
     //viewportWidth: 1920,
     //viewportHeight: 1280,
     chromeWebSecurity: false,
